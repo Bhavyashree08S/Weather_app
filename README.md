@@ -1,6 +1,6 @@
 
 
-# 🌤️ Weather App
+# 🌤️ Mausam -Weather App
 
 A simple and elegant Weather Application built using **Python** and **Tkinter** that fetches real-time weather data using the **OpenWeather API**.
 
